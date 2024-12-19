@@ -25,6 +25,7 @@ Funzionalità:
 
 La documentazione interattiva dell'API è disponibile tramite Swagger all'indirizzo:
 
-http://localhost:8080/swagger-ui/
+
+[http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
 
 Swagger fornisce una vista completa di tutti gli endpoint disponibili, inclusi i dettagli su ciascun metodo HTTP, parametri, risposte e codici di stato.
