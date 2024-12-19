@@ -10,22 +10,6 @@ Tecnologie Utilizzate:
     Postman: per testare le API.
     Swagger: per la documentazione interattiva delle API.
 
-Funzionalità:
-
-    Gestione Libri:
-        Inserimento dei libri (i dati relativi ad Autori, Editori, Operatori e Utenti devono essere già presenti nel database).
-        Ricerca dei libri con filtri per Autore, Editore, e altri parametri.
-        Prestito dei libri agli utenti (funzione di prestito, con gestione delle date di restituzione).
-
-    Gestione Utenti:
-        Gli utenti possono prendere in prestito i libri disponibili.
-        Ogni utente può vedere i libri che ha preso in prestito e la relativa data di restituzione.
-
-        Documentazione Swagger:
-
-La documentazione interattiva dell'API è disponibile tramite Swagger all'indirizzo:
 
 
-[http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
 
-Swagger fornisce una vista completa di tutti gli endpoint disponibili, inclusi i dettagli su ciascun metodo HTTP, parametri, risposte e codici di stato.
